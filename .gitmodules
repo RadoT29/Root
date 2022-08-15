@@ -1,3 +1,4 @@
 [submodule "Nested"]
 	path = Nested
 	url = git@github.com:RadoT29/Nested.git
+	update = merge
